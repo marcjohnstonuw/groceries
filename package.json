@@ -1,0 +1,27 @@
+{
+  "name": "groceries",
+  "version": "0.0.1",
+  "description": "helper for making a grocery list",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcjohnstonuw/groceries.git"
+  },
+  "author": "Marc Johnston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcjohnstonuw/groceries/issues"
+  },
+  "homepage": "https://github.com/marcjohnstonuw/groceries#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.12.0"
+  }
+}

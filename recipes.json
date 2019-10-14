@@ -1,0 +1,90 @@
+{
+    "sweep the kitchen": {
+        "ingredients": {
+            "broccoli": "1 crown",
+            "sliced olives": "3 oz",
+            "feta cheese": "2 oz",
+            "italian dressing": "1/3 cup"
+        }
+    },
+    "curry chicken salad": {
+        "ingredients": {
+            "mayonnaise": "1/4 cup",
+            "plain yogurt": "1/4 cup",
+            "lemon juice": "1 tsp",
+            "honey": "1/2 tsp",
+            "curry powder": "1 tsp",
+            "chicken": "2.5 cups chopped cooked",
+            "sliced almonds": "1/2 cup",
+            "raisins": "1/2 cup"
+        }
+    },
+    "pork peanut dragon noodles": {
+        "ingredients": {
+            "chili garlic sauce": "1/4 cup",
+            "soy sauce": "1/4 cup",
+            "brown sugar": "1/4 cup",
+            "ground pork": "1/2 pound",
+            "ramen noodles": "2 packs",
+            "unsalted peanuts chopped": "1/4 cup"
+        }
+    },
+    "mediterranean hummus bowl": {
+        "ingredients": {
+            "ground beef": "1/2 pound",
+            "dried oregano": "1/2 tsp",
+            "cumin": "1/2 tsp",
+            "garlic powder": "1/4 tsp",
+            "rice": "4 cups cooked",
+            "grape tomatoes": "1 pint",
+            "cucumber": "1/2",
+            "celery": "2 stalks",
+            "olives": "1 cup",
+            "feta cheese": "2 oz"
+        }
+    },
+    "easy homemade hummus": {
+        "ingredients": {
+            "canned chickpeas": "1 can",
+            "olive oil": "2 tsp",
+            "lemon juice": "1/4 cup",
+            "tahini": "1/4 cup",
+            "garlic": "1 clove",
+            "cumin": "1/4 tsp"
+        }
+    },
+    "oven fajitas": {
+        "ingredients": {
+            "chili powder": "1 tbsp",
+            "paprika": "1/2 tbsp",
+            "garlic powder": "1/2 tsp",
+            "cumin": "1/4 tsp",
+            "cayenne pepper": "1/8 tsp",
+            "sugar": "1 tsp",
+            "celery": "4 stalks",
+            "bell peppers": "3 any color",
+            "chicken breast": "1 pound",
+            "lime": "1 medium",
+            "corn tortillas": "8+ 6-inch",
+            "sour cream": "1/2 cup",
+            "cilantro": "1/4 bunch (optional)"
+        }
+    },
+    "slow cooker rosemary garlic beef stew": {
+        "ingredients": {
+            "carrots": "4 medium",
+            "celery": "1/2 bunch",
+            "red potatoes": "2 pounds",
+            "garlic": "4 cloves",
+            "beef stew meat": "1.5 pounds",
+            "all purpose flour": "1/4 cup",
+            "beef broth": "2 cups",
+            "dijon mustard": "2 tbsp",
+            "worcestershire sauce": "1 tbsp",
+            "soy sauce": "1 tbsp",
+            "brown sugar": "1/2 tbsp",
+            "dried rosemary": "1/2 tsp",
+            "dried thyme": "1/2 tsp"
+        }
+    }
+}
