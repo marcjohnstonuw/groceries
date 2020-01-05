@@ -10,6 +10,7 @@ const getGroceryItems = (category) => Object.entries(category)
     .join('\n');
 
 const getGroceryList = (recipesToGet) => {
+    console.log(recipesToGet);
 
     const output = {};
 
@@ -50,7 +51,7 @@ app.get('/', (req, res) => {
     <html>
         <body>
             <h1>What are we eating?</h1>
-            <form action="/list" method="POST">
+            <form action="/list" method="GET">
             ${recipeNames.map(name => `<label>
                 <input type="checkbox" name="food" value="${name}" />
                 ${name}
@@ -63,8 +64,8 @@ app.get('/', (req, res) => {
     `);
 });
 
-app.post('/list', (req, res) => {
-    res.send(getGroceryList(req.body.food));
+app.get('/list', (req, res) => {
+    res.send(getGroceryList(req.query.food));
 })
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))

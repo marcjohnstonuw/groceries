@@ -86,5 +86,49 @@
             "dried rosemary": "1/2 tsp",
             "dried thyme": "1/2 tsp"
         }
+    },
+    "ground turkey stir fry": {
+        "ingredients": {
+            "soy sauce": "1/4 cup",
+            "toasted sesame oil": "1/2 tbsp",
+            "brown sugar": "1/2 tbsp",
+            "bell peppers": "2",
+            "celery": "some",
+            "spinach": "2 oz",
+            "garlic": "2 cloves",
+            "ground turkey": "1 pound",
+            "peanuts": "1/4 cup",
+            "brown rice": "2.5 cups cooked"
+        }
+    },
+    "smoky roasted sausage and vegetables": {
+        "ingredients": {
+            "olive oil": "1/4 cup",
+            "red wine vinegar": "2 tbsp",
+            "dijon mustard": "1 tsp",
+            "smoked sausage": "12 oz",
+            "broccoli": "1 crown",
+            "bell peppers": "1",
+            "celery": "1 red onion worth"
+        }
+    },
+    "make ahead kale white bean and pesto salad": {
+        "ingredients": {
+            "kale": "6 cups finely chopped",
+            "cannellini beans": "15 oz can",
+            "chicken breast": "1",
+            "grape tomatoes": "1 cup",
+            "pesto": "1/2 cup",
+            "lemon": "1 large"
+        }
+    },
+    "sun dried tomato kale and white bean skillet": {
+        "ingredients": {
+            "cannellini beans": "2 15 oz can",
+            "cannned sun dried tomatoes": "1/2 7 oz jar",
+            "apple cider vinegar": "1 tbsp",
+            "garlic": "2 cloves",
+            "kale": "6 oz fresh"
+        }
     }
 }
