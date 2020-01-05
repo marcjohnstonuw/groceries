@@ -15,6 +15,7 @@
     "soy sauce": "condiments",
     "brown sugar": "baking",
     "ground pork": "meat",
+    "ground turkey": "meat",
     "ramen noodles": "pasta",
     "unsalted peanuts chopped": "nuts",
     "ground beef": "meat",
@@ -50,5 +51,12 @@
     "worcestershire sauce": "condiments",
     "dried rosemary": "spices",
     "dried thyme": "spices",
-    "plain yogurt": "dairy"
+    "plain yogurt": "dairy",
+    "toasted sesame oil": "condiments",
+    "red wine vinegar": "condiments",
+    "smoked sausage": "meat",
+    "cannellini beans": "canned food",
+    "pesto": "condiments",
+    "canned sun dried tomatoes": "canned food",
+    "apple cider vinegar": "condiments"
 }
