@@ -35,7 +35,27 @@ const getGroceryList = (recipesToGet) => {
         Object.entries(output)
             .map(([category, items]) => `<h2>${category}</h2>` +
                 getGroceryItems(items)
-            ).join(`\n`);
+            ).join(`\n`) + `
+            <a href="/">Back To List</a>
+            <br />
+            <br />
+            <br />
+            <button type="button" onclick="(function copy() {
+                console.log('hi mom');
+                const el = document.createElement('textarea');
+                el.value = document.location.href
+                document.body.appendChild(el);
+                el.select();
+                document.execCommand('copy');
+                document.body.removeChild(el);
+            })()">Copy this list to clipboard</button>
+            <input type="hidden" id="pastebuffer" />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />`;
 };
 
 // console.log(JSON.stringify(output));
